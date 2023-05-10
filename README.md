@@ -1,0 +1,2 @@
+# macsetup
+mac software setup
